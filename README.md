@@ -1,11 +1,12 @@
 <h2> Hey there! I'm Marcos!</h2>
+![](https://komarev.com/ghpvc/?username=marcosd3souza)
 
 My name is Marcos and I'm AI/ML Specialist.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/marcos-de-souza-msc-893758aa//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.kaggle.com/marcosd3souza"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-profile-blue?style=flat-square&logo=kaggle"></a>
-<a href="https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-profile-blue?style=flat-square&logo=googlescholar"></a>
+<a href="https://www.linkedin.com/in/marcos-de-souza-msc-893758aa//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marcos%de%Souza,MSc-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.kaggle.com/marcosd3souza"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-experiments-blue?style=flat-square&logo=kaggle"></a>
+<a href="https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-papers-blue?style=flat-square&logo=googlescholar"></a>
 
 ## 🎓 Education
 - **PhD in Machine Learning** - [Federal University of Pernambuco - UFPE]
@@ -17,7 +18,7 @@ My name is Marcos and I'm AI/ML Specialist.
 ## 💼 Professional Experience
 I am a skilled IT professional with 12+ years in the industry, working from discovery & conception to definition and implementation of data-driven softwares, providing to organizations high-value systems and innovative solutions involving AI and data analytics models.
 
-Technical Arsenal:
+## 🛠 Tools and Technologies
 
 **Programming language**
 - Python
