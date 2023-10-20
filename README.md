@@ -46,7 +46,12 @@ I am a skilled IT professional with 12+ years in the industry, working from disc
 - D3.js
 
 **Databases**
-MongoDB | MySQL | AWS DynamoDB | postgres | SQL Server | Oracle 12g
+- MongoDB
+- MySQL
+- AWS DynamoDB
+- postgres
+- SQL Server 2000/2008
+- Oracle 12g
 
 **AWS Cloud**
 - CloudFormation
