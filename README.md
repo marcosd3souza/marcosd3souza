@@ -4,7 +4,8 @@ My name is Marcos and I'm AI/ML Specialist.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/marcos-de-souza-msc-893758aa//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-profile-blue?style=flat-square&logo="#4285F4""></a>
+<a href="https://www.kaggle.com/marcosd3souza"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-profile-blue?style=flat-square&logo=kaggle"></a>
+<a href="https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-profile-blue?style=flat-square&logo=googlescholar"></a>
 
 ## 🎓 Education
 - **PhD in Machine Learning** - [Federal University of Pernambuco - UFPE]
