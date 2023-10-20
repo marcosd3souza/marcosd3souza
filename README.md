@@ -2,6 +2,10 @@
 
 My name is Marcos and I'm AI/ML Specialist.
 
+<p align="center">
+<a href="https://www.linkedin.com/in/marcos-de-souza-msc-893758aa//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-profile-blue?style=flat-square&logo=scholar"></a>
+
 ## 🎓 Education
 - **PhD in Machine Learning** - [Federal University of Pernambuco - UFPE]
 - **MSc in Machine Learning** - [Federal University of Pernambuco - UFPE]
@@ -62,10 +66,3 @@ MongoDB | MySQL | AWS DynamoDB | postgres | SQL Server | Oracle 12g
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosd3souza&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/marcos-de-souza-msc-893758aa//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-profile-blue?style=flat-square&logo=scholar""></a>
-</p>
