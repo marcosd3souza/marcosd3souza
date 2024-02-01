@@ -9,15 +9,15 @@ My name is Marcos and I'm AI/ML Specialist.
 <a href="https://www.kaggle.com/marcosd3souza"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-experiments-blue?style=flat-square&logo=kaggle"></a>
 <a href="https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-papers-blue?style=flat-square&logo=googlescholar"></a>
 
+## 💼 Professional Experience
+I am a skilled IT professional with 12+ years in the industry, working from discovery & conception to definition and implementation of data-driven softwares, providing to organizations high-value systems and innovative solutions involving AI and data analytics models.
+
 ## 🎓 Education
 - **PhD in Machine Learning** - [Federal University of Pernambuco - UFPE]
 - **MSc in Machine Learning** - [Federal University of Pernambuco - UFPE]
 - **Specialization in Mathematics for Machine Learning** - [Imperial College - UK]
 - **Specialization in Software Engineering** - [University of Pernambuco - PE/Brazil]
 - **Computer Science** - [UNIFG - PE/Brazil]
-
-## 💼 Professional Experience
-I am a skilled IT professional with 12+ years in the industry, working from discovery & conception to definition and implementation of data-driven softwares, providing to organizations high-value systems and innovative solutions involving AI and data analytics models.
 
 ## 🛠 Tools and Technologies
 
